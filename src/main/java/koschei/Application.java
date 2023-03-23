@@ -12,4 +12,5 @@ public class Application {
                 applicationContext.getBean(KoscheiTheDeathless.class);
         System.out.println(koscheiTheDeathless.getRulesByDeth());
     }
+
 }

@@ -16,4 +16,5 @@ public class Rabbit4 {
     public String toString() {
         return ", в зайце утка " + duck.toString();
     }
+
 }

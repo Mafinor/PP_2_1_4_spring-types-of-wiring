@@ -17,4 +17,5 @@ public class Wood3 {
     public String toString() {
         return ", на дереве заяц " + rabbit.toString();
     }
+
 }
